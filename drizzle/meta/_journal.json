@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1745244770688,
+      "tag": "0000_secret_lake",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1745245736047,
+      "tag": "0001_silly_mojo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1748313332286,
+      "tag": "0002_same_komodo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1748399333530,
+      "tag": "0003_panoramic_pepper_potts",
+      "breakpoints": true
+    }
+  ]
+}
